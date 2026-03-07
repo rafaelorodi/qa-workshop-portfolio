@@ -1,3 +1,7 @@
 # qa-workshop-portfolio
-Para Subir Ejercicios del Semillero QA Nivel 2
-Editado desde el Visual Studio Code
+# QA Workshop Portfolio
+Portafolio individual del workshop “Ingeniero de Pruebas en el Desarrollo Moderno”.
+Autor: Francisco Rafael Rodi Encian
+Este repositorio contendrá los entregables desarrollados durante el workshop.
+## Estado actual
+Repositorio conectado y listo para comenzar el trabajo del portafolio
