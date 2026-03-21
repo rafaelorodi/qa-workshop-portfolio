@@ -36,6 +36,4 @@ Se consideraron los siguientes factores:
 - Visibilidad del problema para el usuario final
 - Costo de corrección (retrabajo)
 
-Los riesgos que afectan directamente el flujo de compra, autenticación o datos del usuario fueron clasificados con alto impacto.
-
 ---
