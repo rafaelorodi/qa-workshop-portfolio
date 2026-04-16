@@ -6,7 +6,7 @@ Explorar el formulario de contacto de la plataforma usando formatos de correo in
 - **Entorno:** Web (Chrome)
 - **Herramientas:** Google DevTools (Emulación de dispositivos iOS)
 ## INICIO
-11/04/2026 - [Ingresa tu hora de inicio]
+11/04/2026 - 22:00
 ## TESTER
 Rafael Rodi
 ## DESGLOSE DE TAREAS
